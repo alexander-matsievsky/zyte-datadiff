@@ -1,0 +1,2 @@
+from zyte_datadiff.dataset.scrapy_cloud_item import ScrapyCloudItem
+from zyte_datadiff.dataset.scrapy_cloud_job import ScrapyCloudJob
